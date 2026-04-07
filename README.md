@@ -1,16 +1,16 @@
-# 🍽️ Amazon Fine Food Reviews — NLP Insights Pipeline
+# Amazon Fine Food Reviews — NLP Insights Pipeline
 
 An end-to-end NLP project analyzing 568,000+ Amazon food reviews to extract 
 business insights using sentiment analysis, topic modeling, and trend analysis.
 
 ---
 
-## 📊 Live Dashboard
+## Live Dashboard
 🔗 [Coming Soon — Streamlit Deployment]
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 This project builds a complete NLP insights pipeline on the 
 [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) 
@@ -24,29 +24,29 @@ dataset, covering:
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
-1. 🚨 **Packaging Crisis** — 40.88% of packaging-related reviews are negative, 
+1.  **Packaging Crisis** — 40.88% of packaging-related reviews are negative, 
    representing ~17,500 dissatisfied customers — the highest complaint rate of any category
 
-2. 📉 **Declining Satisfaction** — Positive sentiment declined steadily from 93% (2003) 
+2.  **Declining Satisfaction** — Positive sentiment declined steadily from 93% (2003) 
    to 82% (2012) as the platform scaled to mainstream audiences
 
-3. ✅ **Snacks Lead Satisfaction** — Snacks & Sweet Foods maintains 91.85% positive 
+3.  **Snacks Lead Satisfaction** — Snacks & Sweet Foods maintains 91.85% positive 
    sentiment — Amazon's most consistently satisfying food category
 
-4. 🛒 **Price Sensitivity Growing** — Shopping & Pricing became the largest topic 
+4.  **Price Sensitivity Growing** — Shopping & Pricing became the largest topic 
    by 2010, outpacing all food categories — customers increasingly focused on value
 
-5. ☕ **Coffee vs Tea** — Coffee has a 14.33% negative rate vs Tea's 10.89% — 
+5.  **Coffee vs Tea** — Coffee has a 14.33% negative rate vs Tea's 10.89% — 
    coffee buyers have significantly higher expectations
 
-6. 📝 **Negative Reviews Are Longer** — Dissatisfied customers write more detailed 
+6.  **Negative Reviews Are Longer** — Dissatisfied customers write more detailed 
    reviews — providing richer feedback for product improvement
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Area | Tools |
 |---|---|
@@ -60,7 +60,7 @@ dataset, covering:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 amazon-nlp-insights/
 │
 ├── datasets/
@@ -81,7 +81,7 @@ amazon-nlp-insights/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 **1 — Clone the repository**
 ```bash
@@ -113,7 +113,7 @@ python -m streamlit run app.py
 
 ---
 
-## 📈 Model Results
+## Model Results
 
 | Model | Task | Accuracy |
 |---|---|---|
